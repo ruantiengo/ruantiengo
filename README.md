@@ -15,11 +15,6 @@ public class Bio {
 		"- 📫 How to reach me:":              "you can search me on instagram @tiengoruan",
 	}
 ```
-<p align="center">
-  <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="ruantiengo :: StackShare" />
-  </a>
-</p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
