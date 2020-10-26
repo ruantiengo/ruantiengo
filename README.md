@@ -16,14 +16,15 @@ public class Bio {
 
 <h2 align="center">You can reach me at :alien:</h2>
 
-
-<br> <br>  <a href="https://www.linkedin.com/in/ruantiengo/">
+<h3 align="center>
+< <a href="https://www.linkedin.com/in/ruantiengo/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Ruan Tiengo LinkedIn Profile" height="30" width="30">
   </a>
 
   <a href="https://www.youtube.com/user/ruantiengo">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
   </a>
+  </h3>
 </p>
 
 
