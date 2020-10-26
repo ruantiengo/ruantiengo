@@ -5,7 +5,7 @@
 ```golang
 
 public class Bio {
-		"- ⚡ Quick bio:":                    "I'm a computer engeneering student, a dog lover and languages lover",
+		"- ⚡ Quick bio:":                    "I'm a computer engeneering student, a dog lover and a league of legends player",
 		"- 🌱 I’m currently learning":        "springboot framework, javascript, react and flutter",
 		"- 👯 I’m looking to collaborate on": "Java, and springboot projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
@@ -16,7 +16,7 @@ public class Bio {
 
 <h2 align="center">You can reach me at :alien:</h2>
 
-<h3 align="center>
+<p align="center">
 < <a href="https://www.linkedin.com/in/ruantiengo/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Ruan Tiengo LinkedIn Profile" height="30" width="30">
   </a>
@@ -24,7 +24,6 @@ public class Bio {
   <a href="https://www.youtube.com/user/ruantiengo">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
   </a>
-  </h3>
 </p>
 
 
