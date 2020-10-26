@@ -1,6 +1,8 @@
-# Ruan Tiengo
-<p align="center"><img src="https://media.tenor.com/images/65cc2f520a5dbd816ad050f4a08aec97/tenor.gif" alt="Synthwave" height="300" width="500"></p>
+
+<p align="center"><img src="https://media.tenor.com/images/65cc2f520a5dbd816ad050f4a08aec97/tenor.gif" alt="Synthwave" height="250" width="700"></p>
 <h2 align="center">About me</h2>
+
+# Ruan Tiengo
 
 ```golang
 
