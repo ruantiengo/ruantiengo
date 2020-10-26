@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://media.tenor.com/images/65cc2f520a5dbd816ad050f4a08aec97/tenor.gif" alt="Synthwave" height="250" width="700"></p>
 <h2 align="center">About me</h2>
-# Ruan
+
 ```golang
 
 public class Bio {
@@ -10,7 +10,7 @@ public class Bio {
 		"- 👯 I’m looking to collaborate on": "Java, and springboot projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "java and springboot",
-		"- 📫 How to reach me:":              "you can search me on instagram @tiengoruan",
+		"- 📫 How to reach me:":              "you can search me on instagram @tiengoruan"
 	}
 ```
 
