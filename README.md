@@ -17,7 +17,7 @@ public class Bio {
 <h2 align="center">You can reach me at :alien:</h2>
 
 
-  <a href="https://www.linkedin.com/in/ruantiengo/">
+<br> <br>  <a href="https://www.linkedin.com/in/ruantiengo/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Ruan Tiengo LinkedIn Profile" height="30" width="30">
   </a>
 
