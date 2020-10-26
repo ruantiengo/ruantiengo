@@ -33,7 +33,7 @@ public class Bio {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ruantiengo&show_icons=true&theme=synthwave" alt="ruantiengo :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://media.giphy.com/media/z01r2SNHZIQRa/giphy.gif" alt="Synthwave" height="300" width="500"></p>
 
 
 
