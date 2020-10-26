@@ -17,7 +17,7 @@ public class Bio {
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-< <a href="https://www.linkedin.com/in/ruantiengo/">
+  <a href="https://www.linkedin.com/in/ruantiengo/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Ruan Tiengo LinkedIn Profile" height="30" width="30">
   </a>
 
@@ -31,7 +31,7 @@ public class Bio {
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{ruantiengo}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 ithub-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
