@@ -1,3 +1,13 @@
-<h1>Hello there!</h1>
+<h2 align="center">About me</h2>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+import java.utl.RuanTiengo;
+
+
+public class Ruan {
+		"- ⚡ Quick bio:":                    "I'm a computer engeneering student in UFOP (University of Ouro Preto) in Brazil",
+		"- 🌱 I’m currently learning":        "Springboot framework and javascript",
+		"- 👯 I’m looking to collaborate on": "springboot projects",
+		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
+		"- 💬 Ask me about":                  "Java and spring framework",
+		"- 📫 How to reach me:":              "you can ask me in instagram @tiengoruan :p"
+},
