@@ -6,7 +6,7 @@
 
 public class Bio {
 		"- ⚡ Quick bio:":                    "I'm a computer engeneering student at the Federal University of Ouro Preto(UFOP), a dog lover and a league of legends player",
-		"- 🌱 I’m currently learning":        "springboot framework, javascript, react and flutter",
+		"- 🌱 I’m currently learning":        "springboot framework, javascript and python",
 		"- 👯 I’m looking to collaborate on": "Java, and springboot projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "java and springboot",
