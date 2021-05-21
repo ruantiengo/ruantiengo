@@ -5,12 +5,12 @@
 ```golang
 
 public class Bio {
-		"- ⚡ Quick bio:":                    "I'm a computer engeneering student at the Federal University of Ouro Preto(UFOP), a dog lover and a league of legends player",
-		"- 🌱 I’m currently learning":        "springboot framework, javascript and python",
-		"- 👯 I’m looking to collaborate on": "Java, and springboot projects",
+		"- ⚡ Quick bio:":                    "I'm a computer engeneering student at the Federal University of Ouro Preto(UFOP)",
+		"- 🌱 I’m currently learning":        "react",
+		"- 👯 I’m looking to collaborate on": "Web projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "java and springboot",
-		"- 📫 How to reach me:":              "you can search me on instagram @tiengoruan"
+		"- 💬 Ask me about":                  "javascript and framkeworks",
+		"- 📫 How to reach me:":              "you can search me on linkedin linkedin.com/in/ruan-tiengo or instagram @tiengoruan"
 	}
 ```
 
