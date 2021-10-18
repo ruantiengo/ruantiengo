@@ -9,7 +9,7 @@ public class Bio {
 		"- 🌱 I’m currently learning":        "react",
 		"- 👯 I’m looking to collaborate on": "Web projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "javascript and framkeworks",
+		"- 💬 Ask me about":                  "javascript",
 		"- 📫 How to reach me:":              "you can search me on linkedin linkedin.com/in/ruan-tiengo or instagram @tiengoruan"
 	}
 ```
