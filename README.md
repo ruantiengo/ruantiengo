@@ -33,8 +33,6 @@ public class Bio {
 
 
 
-https://user-images.githubusercontent.com/54746504/152862308-0c385459-6b75-4dbb-8dd1-38ab1636ff3e.mp4
-
-
+![WhatsApp-Video-2022-02-07-at-16 39 56](https://user-images.githubusercontent.com/54746504/152862489-6a8c1a2d-b9af-4418-bc7b-5c413b071008.gif)
 
 ---
