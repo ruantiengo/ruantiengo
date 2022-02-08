@@ -6,7 +6,7 @@
 
 public class Bio {
 		"- ⚡ Quick bio:":                    "I'm a computer engeneering student at the Federal University of Ouro Preto(UFOP)",
-		"- 🌱 I’m currently learning":        "react",
+		"- 🌱 I’m currently learning":        "Flutter",
 		"- 👯 I’m looking to collaborate on": "Web projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "javascript",
