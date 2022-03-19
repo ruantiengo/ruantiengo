@@ -6,11 +6,11 @@
 
 public class Bio {
 		"- ⚡ Quick bio:":                    "I'm a computer engeneering student at the Federal University of Ouro Preto(UFOP)",
-		"- 🌱 I’m currently learning":        "Flutter",
+		"- 🌱 I’m currently learning":        "React",
 		"- 👯 I’m looking to collaborate on": "Web projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "javascript",
-		"- 📫 How to reach me:":              "you can search me on linkedin linkedin.com/in/ruan-tiengo or instagram @tiengoruan"
+		"- 💬 Ask me about":                  "React and next.js",
+		"- 📫 How to reach me:":              "you can search me on linkedin linkedin.com/in/ruan-tiengo"
 	}
 ```
 
