@@ -4,7 +4,7 @@
 
 ```golang
 
-public class Bio {
+export class Bio {
 		"- ⚡ Quick bio:":                    "I'm a computer engeneering student at the Federal University of Ouro Preto(UFOP)",
 		"- 🌱 I’m currently learning":        "React",
 		"- 👯 I’m looking to collaborate on": "Web projects",
