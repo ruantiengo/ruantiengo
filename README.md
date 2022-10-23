@@ -28,8 +28,4 @@ export class Bio {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ruantiengo&show_icons=true&theme=synthwave" alt="ruantiengo :: Profile Stats" /></p>
 
-
-
-![WhatsApp-Video-2022-02-07-at-16 39 56](https://user-images.githubusercontent.com/54746504/152862489-6a8c1a2d-b9af-4418-bc7b-5c413b071008.gif)
-
 ---
