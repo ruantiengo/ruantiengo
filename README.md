@@ -6,7 +6,7 @@
 
 export class Bio {
 		"- ⚡ Quick bio:":                    "I'm a computer engeneering student at the Federal University of Ouro Preto(UFOP)",
-		"- 🌱 I’m currently learning":        "i'm always learning react stuffs and recently i'm learning flutter",
+		"- 🌱 I’m currently learning":        "i'm always learning react stuffs and recently i'm learning dotnet",
 		"- 👯 I’m looking to collaborate on": "Web projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "React and next.js",
